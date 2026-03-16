@@ -30,7 +30,7 @@ function App() {
             <button className='text-white bg-green-500 py-2 px-6 rounded text-lg hover:bg-green-600 duration-300'>Contact Me</button>
           </div>
           <div className='md:w-1/2 lg:max-w-lg w-5/6'>
-            <img src="./img/myPicture.png" alt="" />
+            <img src="./img/bapari.png" alt="" />
           </div>
         </div>
       </section>
@@ -130,22 +130,22 @@ function App() {
           </div>
           <div className='lg:pl-12 lg:py-6 w-full lg:w-1/2'>
             <h1 className='text-2xl sm:text-3xl font-medium text-gray-900 mb-10 text-center lg:text-left'>My Skills</h1>
-            <div className='w-full'>
+            <div>
               <h2>HTML</h2>
               <div className='shadow bg-green-100 mt-2 w-full'>
                 <div className='bg-green-600 text-xs leading-none py-1 text-center text-white' style={{width:"85%"}}>85%</div>
-              </div>
-              <h2>JavaScript</h2>
-              <div className='shadow bg-green-100 mt-2 w-full'>
-                <div className='bg-orange-600 text-xs leading-none py-1 text-center text-white' style={{width:"75%"}}>75%</div>
                 </div>
-              <h2>React</h2>
-              <div className='shadow bg-green-100 mt-2 w-full'>
-                <div className='bg-blue-600 text-xs leading-none py-1 text-center text-white' style={{width:"60%"}}>60%</div>
+                <h2>JavaScript</h2>
+                <div className='shadow bg-green-100 mt-2 w-full'>
+                  <div className='bg-orange-600 text-xs leading-none py-1 text-center text-white' style={{width:"75%"}}>75%</div>
                 </div>
-              <h2>Python</h2>
-              <div className='shadow bg-green-100 mt-2 w-full'>
-                <div className='bg-yellow-600 text-xs leading-none py-1 text-center text-white' style={{width:"80%"}}>80%</div>
+                <h2>React</h2>
+                <div className='shadow bg-green-100 mt-2 w-full'>
+                  <div className='bg-blue-600 text-xs leading-none py-1 text-center text-white' style={{width:"60%"}}>60%</div>
+                </div>
+                <h2>Python</h2>
+                <div className='shadow bg-green-100 mt-2 w-full'>
+                  <div className='bg-yellow-600 text-xs leading-none py-1 text-center text-white' style={{width:"80%"}}>80%</div>
                 </div>
             </div>
           </div>
